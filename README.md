@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @aloksingh02
-- 👀 I’m interested in the feild of software development.
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me  twitter https://twitter.com/Alokkum21995705?t=Ux9-kl6EB9nAQboan7wSDQ&s=09
+- 👀 I’m interested in the field of software development.
+- 🌱 I’m currently learning DSA.
+- 💞️ I’m looking to collaborate on MERN projects.
+- 📫 How to reach me  Twitter https://twitter.com/Alokkum21995705?t=Ux9-kl6EB9nAQboan7wSDQ&s=09
+- 📫 How to reach me  Linkedin https://www.linkedin.com/in/alok-kumar-singh-55451725a/
 
 <!---
 aloksingh02/aloksingh02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
