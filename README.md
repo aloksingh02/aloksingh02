@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alok Singh (@aloksingh02).
+- 👋 Hi, I’m Alok Kumar Singh (@aloksingh02).
 - 👀 Passionate about competitive programming, MERN stack development, and scalable software solutions.
 - 🌱 Currently enhancing my expertise in Data Structures and Algorithms (DSA).
 - 💞️ Open to collaborating on MERN stack and algorithm-intensive projects.
