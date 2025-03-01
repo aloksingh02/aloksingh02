@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aloksingh02
-- 👀 I’m interested in the field of software development.
+- 👀 Passionate about competitive programming, MERN stack development, and scalable software solutions.
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on MERN projects.
 - 📫 How to reach me  Twitter https://twitter.com/Alokkum21995705?t=Ux9-kl6EB9nAQboan7wSDQ&s=09
